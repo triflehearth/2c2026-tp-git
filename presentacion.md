@@ -7,6 +7,9 @@ En mi tiempo libre me gusta ir al gimnasio 💪 y estudiar idiomas extranjeros �
 
 <hr>
 
-![imagen mostrando un gimnasio típico vacío con mancuernas, banco, máquinas, etc.](https://recessfitnessclub.com/wp-content/uploads/2026/05/top-gym-equipment-1777916472.png)
+<img src="https://recessfitnessclub.com/wp-content/uploads/2026/05/top-gym-equipment-1777916472.png"
+alt ="imagen mostrando un gimnasio típico vacío con mancuernas, banco, máquinas, etc"
+style="width: 100px"
+>
 
 Mi instrucción favorita del manual de intel es... bueno, por ahora creo que no tengo ninguna 😥
